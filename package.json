@@ -1,0 +1,26 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "test for api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airtonmartins/APitest.git"
+  },
+  "keywords": [
+    "Api",
+    "Test",
+    "Mocha",
+    "SuperTest",
+    "Chai"
+  ],
+  "author": "Airton Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Airtonmartins/APitest/issues"
+  },
+  "homepage": "https://github.com/Airtonmartins/APitest#readme"
+}
